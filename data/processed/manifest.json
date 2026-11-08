@@ -1,0 +1,43 @@
+{
+  "dataset": "Brazilian E-Commerce Public Dataset by Olist",
+  "source_url": "https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce",
+  "download_url": "https://www.kaggle.com/api/v1/datasets/download/olistbr/brazilian-ecommerce",
+  "source_sha256": "967e41e04fc306fe604e2a693f488995a8b41e5047418f8a5c8e4abd6deca784",
+  "license": "CC BY-NC-SA 4.0",
+  "currency": "BRL",
+  "built_at_utc": "2026-11-08T05:20:05.082591+00:00",
+  "quality": {
+    "checks": {
+      "integrity": true,
+      "foreign_keys": true,
+      "one_fact_per_order": true,
+      "unique_orders": true,
+      "item_sales_reconcile": true,
+      "category_sales_reconcile": true,
+      "valid_dates": true,
+      "late_only_delivered": true
+    },
+    "rows": {
+      "customers": 99441,
+      "orders": 99441,
+      "products": 32951,
+      "category_translation": 71,
+      "order_items": 112650,
+      "reviews": 99224,
+      "order_facts": 99441,
+      "category_facts": 99470
+    },
+    "date_range": [
+      "2016-09-04",
+      "2018-10-17"
+    ],
+    "missing_delivery_dates": 8,
+    "missing_reviews_delivered": 646,
+    "extra_reviews": 551,
+    "untranslated_categories": 2
+  },
+  "exports": {
+    "orders.csv.gz": "7cc9fc47bf2ea97b776a9b7b9dfed00ca5f791c8fe2d2282d704a2f1bb0ee9f5",
+    "categories.csv.gz": "9d4ff4a7c9ae903f73ab17ee58c4748eb8358ff929ddb0ae3314fa270c716042"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "all_orders": 99092,
+  "delivered_orders": 96211,
+  "sales_cents": 1318102713,
+  "freight_cents": 219209288,
+  "aov_cents": 13700.124860982633,
+  "customers": 93104,
+  "repeat_customers": 2789,
+  "repeat_pct": 2.995574841037979,
+  "late_orders": 6531,
+  "delivery_eligible": 96203,
+  "late_pct": 6.788769580990198,
+  "review_mean": 4.156328478151683,
+  "reviewed_orders": 95568,
+  "median_delivery_days": 10.0,
+  "cancelled_orders": 580
+}
