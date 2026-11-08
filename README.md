@@ -1,5 +1,7 @@
 # CommerceLens — E-commerce Business Insights
 
+Live site: [https://ahmedsakib1113.github.io/commerce-lens/](https://ahmedsakib1113.github.io/commerce-lens/)
+
 A complete business analytics case study using **99,441 real Olist orders**: a reproducible Python/SQLite pipeline, an interactive Streamlit dashboard, SQL business analysis, and an evidence-backed analyst report.
 
 **[Read the hosted analyst report](https://ahmedsakib1113.github.io/commerce-lens/)** · **[Browse the case study](docs/case-study.md)** · **[Explore the SQL](sql/business_questions.sql)**
